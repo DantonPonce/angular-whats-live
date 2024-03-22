@@ -21,6 +21,11 @@
       padding: 10px 20px;
       display: grid;
       grid-template-columns: 50px 1fr 30px;
+      cursor: pointer;
+      
+      &:hover{
+        background: $background-third;
+      }
 
       button{
         color: $color-white;

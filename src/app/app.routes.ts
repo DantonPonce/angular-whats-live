@@ -1,4 +1,4 @@
-import { LoginComponent } from './users/page/login/login.component';
+import { LoginComponent } from './users/pages/login/login.component';
 import { Routes } from '@angular/router';
 
 export const routes: Routes = [
